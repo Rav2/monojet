@@ -1,0 +1,121 @@
+09:39:09,309 root INFO Start loading file /eflow_data/higgsino_train/ensemble_val_7.awkd
+09:39:09,564 root INFO Loading points
+09:39:09,565 root INFO Loading ['part_etarel', 'part_phirel']
+09:39:14,93 root INFO Loading ['part_etarel', 'part_phirel']
+09:39:18,800 root INFO Loading features
+09:39:18,801 root INFO Loading ['part_pt_log', 'part_e_log', 'part_etarel', 'part_phirel', 'origin']
+09:39:23,292 root INFO Loading ['part_pt_log', 'part_e_log', 'part_etarel', 'part_phirel', 'origin']
+09:39:27,722 root INFO Loading ['part_pt_log', 'part_e_log', 'part_etarel', 'part_phirel', 'origin']
+09:39:29,971 root INFO Loading ['part_pt_log', 'part_e_log', 'part_etarel', 'part_phirel', 'origin']
+09:39:32,236 root INFO Loading ['part_pt_log', 'part_e_log', 'part_etarel', 'part_phirel', 'origin']
+09:39:35,590 root INFO Loading mask
+09:39:35,594 root INFO Loading ['part_pt_log']
+09:39:37,895 root INFO Loading origin
+09:39:37,896 root INFO Loading ['origin']
+09:39:40,521 root INFO Loading track
+09:39:40,522 root INFO Loading ['track_pt', 'track_eta', 'track_phi']
+09:39:43,184 root INFO Loading ['track_pt', 'track_eta', 'track_phi']
+09:39:46,234 root INFO Loading ['track_pt', 'track_eta', 'track_phi']
+09:39:49,123 root INFO Loading photon
+09:39:49,131 root INFO Loading ['photon_ET', 'photon_eta', 'photon_phi']
+09:39:51,83 root INFO Loading ['photon_ET', 'photon_eta', 'photon_phi']
+09:39:53,65 root INFO Loading ['photon_ET', 'photon_eta', 'photon_phi']
+09:39:55,258 root INFO Loading hadron
+09:39:55,260 root INFO Loading ['hadron_ET', 'hadron_eta', 'hadron_phi']
+09:39:57,275 root INFO Loading ['hadron_ET', 'hadron_eta', 'hadron_phi']
+09:39:59,334 root INFO Loading ['hadron_ET', 'hadron_eta', 'hadron_phi']
+09:40:01,589 root INFO Loading jet
+09:40:01,591 root INFO Loading ['jet_PT', 'jet_Eta', 'jet_Phi', 'jet_Mass', 'jet_Flavor']
+09:40:02,437 root INFO Loading ['jet_PT', 'jet_Eta', 'jet_Phi', 'jet_Mass', 'jet_Flavor']
+09:40:03,262 root INFO Loading ['jet_PT', 'jet_Eta', 'jet_Phi', 'jet_Mass', 'jet_Flavor']
+09:40:04,90 root INFO Loading ['jet_PT', 'jet_Eta', 'jet_Phi', 'jet_Mass', 'jet_Flavor']
+09:40:04,916 root INFO Loading ['jet_PT', 'jet_Eta', 'jet_Phi', 'jet_Mass', 'jet_Flavor']
+09:40:05,750 root INFO Loading squark
+09:40:05,750 root INFO Loading ['squark_pt']
+09:40:06,576 root INFO Loading jet1_con
+09:40:06,576 root INFO Loading ['con_jet1_phi_arr', 'con_jet1_eta_arr', 'con_jet1_pt_arr', 'con_jet1_type_arr']
+09:40:08,219 root INFO Loading ['con_jet1_phi_arr', 'con_jet1_eta_arr', 'con_jet1_pt_arr', 'con_jet1_type_arr']
+09:40:09,848 root INFO Loading ['con_jet1_phi_arr', 'con_jet1_eta_arr', 'con_jet1_pt_arr', 'con_jet1_type_arr']
+09:40:11,502 root INFO Loading ['con_jet1_phi_arr', 'con_jet1_eta_arr', 'con_jet1_pt_arr', 'con_jet1_type_arr']
+09:40:12,845 root INFO Loading jet2_con
+09:40:12,847 root INFO Loading ['con_jet2_phi_arr', 'con_jet2_eta_arr', 'con_jet2_pt_arr', 'con_jet2_type_arr']
+09:40:14,371 root INFO Loading ['con_jet2_phi_arr', 'con_jet2_eta_arr', 'con_jet2_pt_arr', 'con_jet2_type_arr']
+09:40:15,913 root INFO Loading ['con_jet2_phi_arr', 'con_jet2_eta_arr', 'con_jet2_pt_arr', 'con_jet2_type_arr']
+09:40:17,450 root INFO Loading ['con_jet2_phi_arr', 'con_jet2_eta_arr', 'con_jet2_pt_arr', 'con_jet2_type_arr']
+09:40:18,769 root INFO Loading jet3_con
+09:40:18,770 root INFO Loading ['con_jet3_phi_arr', 'con_jet3_eta_arr', 'con_jet3_pt_arr', 'con_jet3_type_arr']
+09:40:20,199 root INFO Loading ['con_jet3_phi_arr', 'con_jet3_eta_arr', 'con_jet3_pt_arr', 'con_jet3_type_arr']
+09:40:21,449 root INFO Loading ['con_jet3_phi_arr', 'con_jet3_eta_arr', 'con_jet3_pt_arr', 'con_jet3_type_arr']
+09:40:22,713 root INFO Loading ['con_jet3_phi_arr', 'con_jet3_eta_arr', 'con_jet3_pt_arr', 'con_jet3_type_arr']
+09:40:23,895 root INFO Finished loading file /eflow_data/higgsino_train/ensemble_val_7.awkd
+09:40:27,548 root INFO Start loading file /eflow_data/higgsino_train/ensemble_train_7.awkd
+09:40:28,2 root INFO Loading points
+09:40:28,2 root INFO Loading ['part_etarel', 'part_phirel']
+09:40:39,713 root INFO Loading ['part_etarel', 'part_phirel']
+09:40:51,791 root INFO Loading features
+09:40:51,794 root INFO Loading ['part_pt_log', 'part_e_log', 'part_etarel', 'part_phirel', 'origin']
+09:41:03,307 root INFO Loading ['part_pt_log', 'part_e_log', 'part_etarel', 'part_phirel', 'origin']
+09:41:15,278 root INFO Loading ['part_pt_log', 'part_e_log', 'part_etarel', 'part_phirel', 'origin']
+09:41:21,440 root INFO Loading ['part_pt_log', 'part_e_log', 'part_etarel', 'part_phirel', 'origin']
+09:41:27,544 root INFO Loading ['part_pt_log', 'part_e_log', 'part_etarel', 'part_phirel', 'origin']
+09:41:35,271 root INFO Loading mask
+09:41:35,278 root INFO Loading ['part_pt_log']
+09:41:41,516 root INFO Loading origin
+09:41:41,517 root INFO Loading ['origin']
+09:41:47,709 root INFO Loading track
+09:41:47,711 root INFO Loading ['track_pt', 'track_eta', 'track_phi']
+09:41:53,770 root INFO Loading ['track_pt', 'track_eta', 'track_phi']
+09:42:00,44 root INFO Loading ['track_pt', 'track_eta', 'track_phi']
+09:42:06,673 root INFO Loading photon
+09:42:06,678 root INFO Loading ['photon_ET', 'photon_eta', 'photon_phi']
+09:42:11,303 root INFO Loading ['photon_ET', 'photon_eta', 'photon_phi']
+09:42:15,766 root INFO Loading ['photon_ET', 'photon_eta', 'photon_phi']
+09:42:20,940 root INFO Loading hadron
+09:42:20,945 root INFO Loading ['hadron_ET', 'hadron_eta', 'hadron_phi']
+09:42:25,656 root INFO Loading ['hadron_ET', 'hadron_eta', 'hadron_phi']
+09:42:30,439 root INFO Loading ['hadron_ET', 'hadron_eta', 'hadron_phi']
+09:42:35,782 root INFO Loading jet
+09:42:35,786 root INFO Loading ['jet_PT', 'jet_Eta', 'jet_Phi', 'jet_Mass', 'jet_Flavor']
+09:42:37,742 root INFO Loading ['jet_PT', 'jet_Eta', 'jet_Phi', 'jet_Mass', 'jet_Flavor']
+09:42:39,664 root INFO Loading ['jet_PT', 'jet_Eta', 'jet_Phi', 'jet_Mass', 'jet_Flavor']
+09:42:41,639 root INFO Loading ['jet_PT', 'jet_Eta', 'jet_Phi', 'jet_Mass', 'jet_Flavor']
+09:42:43,572 root INFO Loading ['jet_PT', 'jet_Eta', 'jet_Phi', 'jet_Mass', 'jet_Flavor']
+09:42:45,517 root INFO Loading squark
+09:42:45,518 root INFO Loading ['squark_pt']
+09:42:47,423 root INFO Loading jet1_con
+09:42:47,423 root INFO Loading ['con_jet1_phi_arr', 'con_jet1_eta_arr', 'con_jet1_pt_arr', 'con_jet1_type_arr']
+09:42:51,229 root INFO Loading ['con_jet1_phi_arr', 'con_jet1_eta_arr', 'con_jet1_pt_arr', 'con_jet1_type_arr']
+09:42:54,835 root INFO Loading ['con_jet1_phi_arr', 'con_jet1_eta_arr', 'con_jet1_pt_arr', 'con_jet1_type_arr']
+09:42:58,647 root INFO Loading ['con_jet1_phi_arr', 'con_jet1_eta_arr', 'con_jet1_pt_arr', 'con_jet1_type_arr']
+09:43:01,709 root INFO Loading jet2_con
+09:43:01,711 root INFO Loading ['con_jet2_phi_arr', 'con_jet2_eta_arr', 'con_jet2_pt_arr', 'con_jet2_type_arr']
+09:43:05,160 root INFO Loading ['con_jet2_phi_arr', 'con_jet2_eta_arr', 'con_jet2_pt_arr', 'con_jet2_type_arr']
+09:43:08,665 root INFO Loading ['con_jet2_phi_arr', 'con_jet2_eta_arr', 'con_jet2_pt_arr', 'con_jet2_type_arr']
+09:43:12,209 root INFO Loading ['con_jet2_phi_arr', 'con_jet2_eta_arr', 'con_jet2_pt_arr', 'con_jet2_type_arr']
+09:43:15,192 root INFO Loading jet3_con
+09:43:15,195 root INFO Loading ['con_jet3_phi_arr', 'con_jet3_eta_arr', 'con_jet3_pt_arr', 'con_jet3_type_arr']
+09:43:18,121 root INFO Loading ['con_jet3_phi_arr', 'con_jet3_eta_arr', 'con_jet3_pt_arr', 'con_jet3_type_arr']
+09:43:21,152 root INFO Loading ['con_jet3_phi_arr', 'con_jet3_eta_arr', 'con_jet3_pt_arr', 'con_jet3_type_arr']
+09:43:24,55 root INFO Loading ['con_jet3_phi_arr', 'con_jet3_eta_arr', 'con_jet3_pt_arr', 'con_jet3_type_arr']
+09:43:26,847 root INFO Finished loading file /eflow_data/higgsino_train/ensemble_train_7.awkd
+09:43:35,194 root INFO Normalizing ev_phi
+09:43:35,202 root INFO Normalizing ev_eta
+09:43:35,208 root INFO Normalizing ev_met
+09:43:35,213 root INFO Normalizing ev_MT2
+09:43:35,218 root INFO Normalizing ev_ht
+09:43:35,223 root INFO Normalizing ev_m
+09:43:35,228 root INFO Normalizing jet1
+09:43:35,341 root INFO Normalizing jet2
+09:43:35,455 root INFO Normalizing jet3
+09:43:35,568 root INFO Normalizing jet4
+09:43:36,5 root INFO Normalizing ev_phi
+09:43:36,8 root INFO Normalizing ev_eta
+09:43:36,9 root INFO Normalizing ev_met
+09:43:36,10 root INFO Normalizing ev_MT2
+09:43:36,11 root INFO Normalizing ev_ht
+09:43:36,12 root INFO Normalizing ev_m
+09:43:36,13 root INFO Normalizing jet1
+09:43:36,35 root INFO Normalizing jet2
+09:43:36,57 root INFO Normalizing jet3
+09:43:36,78 root INFO Normalizing jet4
+03:16:28,358 tensorflow INFO Assets written to: attempt142-7/assets
