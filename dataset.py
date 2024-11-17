@@ -2,7 +2,7 @@ from sklearn import preprocessing
 import logging
 import awkward0 as awkward 
 import numpy as np
-from keras.utils import to_categorical
+from tensorflow.keras.utils import to_categorical
 import math
 import copy
 
@@ -83,11 +83,6 @@ class Dataset(object):
         Dphi[ self._values['jet'][:, :, 0] < 1.0 ] = 0.0
         self._Dphi = Dphi
         
-        # calculate log of jet pT
-        #jet_log_pt = np.expand_dims( np.log(self._values['jet'][:, :, 0]).clip(-11, 11), -1)
-        #new_jet_dat = np.concatenate( (self._values['jet'], jet_log_pt), axis=2)
-        #self._values['jet'] = new_jet_dat
-        #self.feature_dict['jet'].append('jet_PT_log')
         print('Dataset created!')
         
     def _load(self):
