@@ -41,4 +41,19 @@ If you use Mac with M1 processor or newer, you need to install tensorflow-macos 
 `pip install tensorflow-macos==2.7 tensorflow-metal==0.3`
 
 If you use different system, proceed to the next step. Install the requirement packages with:
-`conda install --yes --file requirements.txt`
+`pip install -r requirements.txt`
+
+## Citation
+
+If you use this code, please cite our paper:
+
+`@article{Maselek:2024qyp,
+    author = "Mase\l{}ek, Rafa\l{} and Nojiri, Mihoko M. and Sakurai, Kazuki",
+    title = "{Machine Learning Electroweakino Production}",
+    eprint = "2411.00093",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ph",
+    month = "10",
+    year = "2024"
+}
+`
