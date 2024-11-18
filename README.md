@@ -43,6 +43,10 @@ If you use Mac with M1 processor or newer, you need to install tensorflow-macos 
 If you use different system, proceed to the next step. Install the requirement packages with:
 `pip install -r requirements.txt`
 
+## Usage
+
+Example code showing the training of a GNN model is in the `train_ensemble.ipynb` file. How to load a trained model and use it to make predictions is described in `evaluate.ipynb`.
+
 ## Citation
 
 If you use this code, please cite our paper:
