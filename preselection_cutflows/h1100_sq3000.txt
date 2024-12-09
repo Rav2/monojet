@@ -1,0 +1,13 @@
+Cut	Eff
+Njets (30 GeV) > 1	0.951
+leading jet PT > 520	0.895
+2nd jet PT > 320	0.7543
+MET > 820	0.5412
+lepton veto (pT>7 GeV) and |eta| < 2.7	0.5408
+leading jet |eta| < 2.0	0.5404
+2nd jet |eta| < 2.0	0.5306
+dphi[j(1,2,3),pTmiss] > 0.8	0.4905
+dphi[j(>3),pTmiss] > 0.4	0.4843
+MET/sqrt(HT) > 16	0.4801
+Meff > 1600	0.4801
+Njets < 5 	0.4554
