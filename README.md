@@ -27,7 +27,7 @@ the background/signal discrimination process.
 
 ## Dataset
 
-Monte Carlo data is available in the CNRS Research Data repository under this [link]().
+Monte Carlo data is available in the CNRS Research Data repository under this [link](https://doi.org/10.57745/RVC6WQ).
 
 ## Installation
 
@@ -47,11 +47,24 @@ If you use different system, proceed to the next step. Install the requirement p
 
 Example code showing the training of a GNN model is in the `train_ensemble.ipynb` file. How to load a trained model and use it to make predictions is described in `evaluate.ipynb`.
 
+## Folder structure
+
+- **data:** this is a placeholder for data set which has to be downloaded from [link](https://doi.org/10.57745/RVC6WQ).
+- **models:** this directory contains all trained NN models (60 in total).
+- **preselection_cutflows:** this directory contains information about efficiencies of preselection cuts.
+- **simulation:** this directory contains examples of MG5 cards and SLHA files.
+
+## License
+<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a> Details are in the license.txt file.</p>
+
+
+
 ## Citation
 
 If you use this code, please cite our paper:
 
-`@article{Maselek:2024qyp,
+```
+@article{Maselek:2024qyp,
     author = "Mase\l{}ek, Rafa\l{} and Nojiri, Mihoko M. and Sakurai, Kazuki",
     title = "{Machine Learning Electroweakino Production}",
     eprint = "2411.00093",
@@ -60,4 +73,17 @@ If you use this code, please cite our paper:
     month = "10",
     year = "2024"
 }
-`
+```
+
+If you use the data set, please additionally cite:
+```
+@data{RVC6WQ_2024,
+author = {MASELEK, Rafal},
+publisher = {Recherche Data Gouv},
+title = {{Simulated data for searches for electroweakino dark matter in the monojet channel}},
+year = {2024},
+version = {V1},
+doi = {10.57745/RVC6WQ},
+url = {https://doi.org/10.57745/RVC6WQ}
+}
+```

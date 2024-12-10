@@ -1,0 +1,1 @@
+This folder contains preselection efficiency tables for higgsino and wino test samples.
