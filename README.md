@@ -3,7 +3,7 @@
 Rafał Masełek, Mihoko M. Nojiri, Kazuki Sakurai
 
 [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/2411.00093)
-![image](https://github.com/user-attachments/assets/0a91eab3-abc5-4f79-b4d6-d2462e3e9d75)
+[![DOI](https://zenodo.org/badge/882608553.svg)](https://doi.org/10.5281/zenodo.15344781)
 
 
 This repository contains the code for the results presented in the paper: 
